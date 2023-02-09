@@ -1,0 +1,431 @@
+region,count
+"SF Bay Area",687
+"New York City",261
+Boston,212
+London,152
+"Los Angeles",103
+Seattle,97
+"San Diego",82
+"Washington, D.C.",72
+Chicago,63
+Beijing,61
+Denver,60
+Austin,59
+"Tel Aviv",57
+Paris,50
+Toronto,47
+Raleigh,40
+Newark,39
+Atlanta,38
+Dallas,35
+Minneapolis,33
+Anaheim,31
+Santiago,28
+Hartford,28
+Phoenix,27
+"Portland, Oregon",26
+Detroit,26
+Philadelphia,26
+Indianapolis,25
+"New Delhi",24
+Baltimore,23
+Nashville,23
+Dublin,22
+"St. Louis",22
+Houston,21
+Bangalore,21
+"Salt Lake City",21
+Pittsburgh,19
+Barcelona,19
+Vancouver,18
+Shanghai,18
+Tokyo,18
+Miami,17
+Cincinnati,17
+Stockholm,16
+Mumbai,16
+Cleveland,16
+Tampa,16
+Amsterdam,15
+"Sao Paulo",15
+Seoul,15
+Helsinki,15
+Berlin,15
+"Manchester, New Hampshire",14
+Moscow,14
+"GBR - Other",13
+Madrid,12
+"Santa Barbara",12
+Copenhagen,11
+"Columbus, Ohio",11
+"FRA - Other",11
+Montreal,11
+Frankfurt,11
+Madison,10
+Sydney,10
+Melbourne,10
+Brussels,10
+"Ft. Lauderdale",10
+Zurich,10
+"San Antonio",10
+Ottawa,10
+Providence,9
+Sacramento,9
+"Kansas City",9
+"DEU - Other",9
+"Orange County, California",9
+Istanbul,9
+"Las Vegas",9
+"Palm Beaches",8
+Lausanne,8
+"Buenos Aires",8
+Tucson,8
+"Des Moines",7
+"BEL - Other",7
+"CHN - Other",7
+Munich,7
+Edinburgh,7
+Worcester,7
+"Rio de Janeiro",7
+"Grand Rapids",7
+Jakarta,7
+Calgary,7
+"NY - Other",6
+Chattanooga,6
+Charlotte,6
+Omaha,6
+Gainesville,6
+Chennai,6
+"Albany, New York",5
+"IRL - Other",5
+"WA - Other",5
+Halifax,5
+"Akron - Canton",5
+"Long Island",5
+Hyderabad,5
+Taiwan,5
+Bangkok,5
+"AUS - Other",5
+Lyon,5
+Porto,5
+"Napa Valley",5
+"Grand Junction",5
+"CHE - Other",5
+Dubai,5
+Birmingham,5
+"Charleston, South Carolina",5
+Montpellier,4
+"Cedar Rapids",4
+"MD - Other",4
+"SC - Other",4
+Budapest,4
+"BRA - Other",4
+"NJ - Other",4
+"DNK - Other",4
+Orlando,4
+Memphis,4
+Reyjavik,4
+"PA - Other",4
+Manchester,4
+Valencia,4
+Gothenburg,4
+"CA - Other",4
+Scranton,4
+Milan,4
+Burnaby,4
+"The Hague",4
+"Florida's Space Coast",4
+Rome,4
+Pune,4
+"Rochester, New York",4
+"Ontario - Inland Empire",4
+Richmond,4
+Eugene,4
+"Little Rock",4
+Antwerp,4
+"JPN - Other",4
+"New Orleans",4
+Auckland,3
+Geneva,3
+Guangzhou,3
+"Greenville - Spartanburg",3
+Kalamazoo,3
+"TX - Other",3
+"SWE - Other",3
+Sheffield,3
+"Colorado Springs",3
+Lisbon,3
+Kiev,3
+Buffalo,3
+Honolulu,3
+Louisville,3
+"Baton Rouge",3
+Belfast,3
+Roanoke,3
+"AR - Other",3
+Allentown,3
+Cairo,3
+"Mexico City",3
+Hangzhou,3
+Lexington,3
+"Oklahoma City",3
+Manila,3
+Cologne,3
+Albuquerque,3
+Sofia,3
+Jacksonville,3
+Prague,3
+"Wilmington, Delaware",3
+Perth,3
+"South Bend",3
+Stuttgart,3
+Dover,3
+"DE - Other",2
+"MA - Other",2
+"VA - Other",2
+Bogota,2
+"VT - Other",2
+Brisbane,2
+"RUS - Other",2
+Amman,2
+Nice,2
+"Myrtle Beach",2
+Bucharest,2
+Surbiton,2
+Milwaukee,2
+Missoula,2
+Shenzhen,2
+Cyprus,2
+Knoxville,2
+Runcorn,2
+Nottingham,2
+"IL - Other",2
+Iasi,2
+Daresbury,2
+Trondheim,2
+"Salem, Oregon",2
+Vilnius,2
+Fayetteville,2
+Oxton,2
+Elmira,2
+"St. John's",2
+Bidart,2
+Anchorage,2
+"CO - Other",2
+"MN - Other",2
+Huddersfield,2
+Groningen,2
+Edmonton,2
+"PHL - Other",2
+Harrisburg,2
+Dayton,2
+"Springfield, Illinois",2
+"Portland, Maine",2
+"Cordoba, ARG",2
+Clermont-ferrand,2
+Hamburg,2
+Lima,2
+Nantes,2
+Warsaw,2
+Lansing,2
+"Fort Wayne",2
+Tralee,2
+Newcastle,2
+Liverpool,2
+Boise,2
+Kampala,2
+"MO - Other",2
+Kolkata,2
+Venice,2
+Coventry,2
+Vienna,2
+Bristol,2
+Netanya,2
+Delhi,2
+Adelaide,2
+"PRT - Other",2
+"IND - Other",2
+"OH - Other",2
+"BC - Other",2
+"TN - Other",2
+Jaipur,2
+Dusseldrof,2
+Cork,2
+Turku,2
+"Fort Collins",2
+"Cape Cod",2
+"ITA - Other",2
+Trenton,2
+Seminole,2
+Utrecht,2
+"ID - Other",2
+Timisoara,1
+"NLD - Other",1
+"Las Palmas De Gran Canaria",1
+Roncade,1
+Salisbury,1
+Kanpur,1
+Curitiba,1
+Bolzano,1
+Blackrock,1
+"BWA - Other",1
+"Sunderland Bridge",1
+Kent,1
+"Fuzhou Shi",1
+Vadodara,1
+"Wilmington - Cape Fear, North Carolina",1
+Neuilly-sur-seine,1
+"Costa Rica",1
+"IDN - Other",1
+"SVN - Other",1
+Tulsa,1
+Lagos,1
+Brossard,1
+Glasgow,1
+"AB - Other",1
+Linkoping,1
+Bath,1
+Asheville,1
+Montgomery,1
+Ballerup,1
+"AZ - Other",1
+"NZL - Other",1
+ItÃƒÂ¡,1
+Gatineau,1
+Swansea,1
+Dubendorf,1
+"KS - Other",1
+Moncton,1
+Ahmedabad,1
+"ME - Other",1
+Staines-upon-thames,1
+Alexandria,1
+"Panama City",1
+"Red Deer",1
+"SD - Other",1
+"Eight Mile Plains",1
+"Naples, Florida",1
+"MT - Other",1
+Pisa,1
+Warwick,1
+"NE - Other",1
+Peterborough,1
+Carthage,1
+Greensboro,1
+Marseille,1
+Jonkoping,1
+Uxbridge,1
+Cwmbran,1
+Pensacola,1
+"Rochester, Minnesota",1
+"Henley On Thames",1
+"FL - Other",1
+"ISR - Other",1
+Ãƒâ€°vry,1
+"AUT - Other",1
+Osijek,1
+"CHL - Other",1
+Rockford,1
+Tallinn,1
+Valladolid,1
+Mauritius,1
+Jounie,1
+Bhubaneswar,1
+Girona,1
+Eindhoven,1
+Malmo,1
+Dresden,1
+Ancona,1
+Fresno,1
+Binton,1
+"ND - Other",1
+Catania,1
+"NOR - Other",1
+Montpelier,1
+Cirencester,1
+"EGY - Other",1
+"LA - Other",1
+Shreveport,1
+"OK - Other",1
+Rennes,1
+Newbury,1
+Branson,1
+Perm,1
+Winnipeg,1
+Luxemburg,1
+Bakersfield,1
+Baar,1
+Syracuse,1
+Royston,1
+Jerusalem,1
+Trowbridge,1
+Durham,1
+"Palm Springs",1
+Caerphilly,1
+"POL - Other",1
+Basel,1
+"WI - Other",1
+"AK - Other",1
+Chandigarh,1
+Turin,1
+"St. Petersburg",1
+Aarhus,1
+"LBN - Other",1
+"CT - Other",1
+Wetherby,1
+Huntsville,1
+Hagerstown,1
+"IRN - Other",1
+Fargo,1
+Martinsried,1
+Toledo,1
+Vantaa,1
+"New Bedford",1
+"Kuala Lumpur",1
+"Atlantic City",1
+Bordeaux,1
+Lancaster,1
+"Florida's Treasure Coast",1
+Tirana,1
+Bahamas,1
+"Nizhniy Novgorod",1
+Florence,1
+"MEX - Other",1
+"A Coruna",1
+"GA - Other",1
+Yerevan,1
+Bozeman,1
+Seongnam,1
+Macclesfield,1
+"THA - Other",1
+Rotterdam,1
+Lulea,1
+Kanata,1
+Dhaka,1
+"ESP - Other",1
+Krakow,1
+"Bowling Green",1
+Chisinau,1
+Ãƒâ€¡an,1
+Grenoble,1
+"CZE - Other",1
+Medford,1
+"CRI - Other",1
+"Lake Tahoe",1
+Stoke-on-trent,1
+Chester,1
+Izmir,1
+"Green Bay",1
+"Burleigh Heads",1
+"DÃƒÂºn Laoghaire",1
+"NC - Other",1
+Tunis,1
+Nairobi,1
+"Lafayette, Louisiana",1
+"KOR - Other",1
+"Quebec City",1
+Guwahati,1
+Recife,1
+Monterrey,1
+Brentford,1
+"SK - Other",1
