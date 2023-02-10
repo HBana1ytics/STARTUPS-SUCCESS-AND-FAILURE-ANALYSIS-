@@ -3,7 +3,7 @@
  
  ABOUT THE PROJECT/ THE ROADMAP:  
 
-The "startups_dataset.csv" file is the original file, the dataset used for the analysis which is "Startups Success/Fail Dataset from Crunchbase". [Credit and License: Community Data License Agreement – Sharing, Version 1.0. I have used MQSQL for all the cleaning, transformation and analysis so "startups" from "new_schema_startups_project.startups" is the uploaded, transfomed and analysed dataset in MYSQL. The questions and toppics focussed on the analysis are mentioned below: 
+The "startups_dataset.csv" file is the original file, the dataset used for the analysis which is "Startups Success/Fail Dataset from Crunchbase". [Credit and License: Community Data License Agreement – Sharing, Version 1.0. I have used MQSQL for all the cleaning, transformation and analysis so "startups" from "new_schema_startups_project.startups" is the uploaded, transfomed and analysed dataset in MYSQL. The questions and topics focussed on the analysis are mentioned below: 
 
 
 1. Demographic analysis: Analyze the distribution of startups based on geographic location, industry, and funding amount.
